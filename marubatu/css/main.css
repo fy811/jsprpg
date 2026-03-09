@@ -1,0 +1,76 @@
+@charset "utf-8";
+
+header
+{
+	text-align: center;
+}
+
+main 
+{
+	text-align: center;
+}
+
+h3
+{
+	margin: 0;
+}
+
+img
+{
+	display: block;
+	margin: 0 auto;
+	height: 90px;
+	width: 90px;
+}
+
+li
+{
+	list-style: none;
+	font-size: 18px;
+}
+
+table
+{
+	margin: 0 auto;
+	border-style: solid;
+	border-color: black;
+}
+
+td
+{
+	margin: 0;
+	padding: 0;
+	border-style: solid;
+	border-color: gray;
+	height: 100px;
+	width: 100px;
+}
+
+p
+{
+	font-size: 20px;
+}
+
+#sk
+{
+	font-size: 30px;
+	height: 50px;
+	width: 220px;
+	margin: 0 auto;
+	border-style: solid;
+}
+
+#sk a
+{
+	text-decoration: none;
+}
+
+#a
+{
+	font-size: 30px;
+	height: 50px;
+	width: 190px;
+	margin: 0 auto;
+	border-style: solid;
+}
+
