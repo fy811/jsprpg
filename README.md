@@ -16,5 +16,7 @@ https://www.pressmantech.com/tech/coding/3658
 other_imagesにRPGの画面遷移図とExcelでの作成画像があります。
 
 topはゲーム選択画面
+
 jsprpgはRPG
+
 marubatuはマルバツゲームのディレクトリとなっています。
