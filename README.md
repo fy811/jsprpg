@@ -6,15 +6,11 @@
 ゲームに使用した画像やタイトルはExcelでドット絵のように作成しました。
 
 ゲーム選択画面はカルーセルで画面を見ながら選べるようにしており
-
 https://ics.media/entry/250516/
-
 このサイトを参考にしました。
 
 RPGで行動を選ぶ際のラジオボタンは
-
 https://www.pressmantech.com/tech/coding/3658
-
 このサイトを参考にしました。
 
 other_imagesにRPGの画面遷移図とExcelでの画像作成の様子があります。
