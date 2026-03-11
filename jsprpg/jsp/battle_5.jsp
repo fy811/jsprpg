@@ -24,7 +24,7 @@
 		
 		<div class="img">
 			<div class="eimg">
-				<img src="../images/en<%= ien %>.png">
+				<img src="../images/edead.png">
 				<br>
 				<img src="../images/hp<%= en_hp %>.png">
 			</div>

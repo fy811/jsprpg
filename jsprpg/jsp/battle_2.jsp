@@ -43,7 +43,6 @@
 					p = 4; //プレイヤーの体力が負値の場合ページ4へ（プレイヤー敗北）
 				}
 				
-				
 				//変更する（した）情報を更新
 				session.setAttribute("p_hp", p_hp);
 				session.setAttribute("p", p);

@@ -8,10 +8,7 @@
 	
 	<body>
 		<%
-			if(request.getSession(false) != null) //セッションがあれば破棄
-			{
-				session.invalidate();
-			}
+			session.invalidate(); //TOPページに来たらセッションを破棄
 		%>
 		
 		<header>
