@@ -13,7 +13,7 @@ RPGで行動を選ぶ際のラジオボタンは
 https://www.pressmantech.com/tech/coding/3658
 このサイトを参考にしました。
 
-other_imagesにRPGの画面遷移図とExcelでの画像作成の様子があります。
+other_imagesにRPGの画面遷移図と実際の画面、Excelでの画像作成の様子があります。
 
 topはゲーム選択画面
 
